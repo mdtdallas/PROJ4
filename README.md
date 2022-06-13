@@ -85,7 +85,7 @@ Packages used in this application include...
       <a href="#">NPM Packages</a>
       <ul>
         <li>
-          <a href="#">Server</a>
+          <a href="#">### Server</a>
           <ul>
             <li>
               <a href="#">BCrypt Version 5.0.1</a>
@@ -303,7 +303,7 @@ This application is free and open source for everyone.
 
 ## Roadmap
 
-<img src="img/roadmap.png" alt="Roadmap" width="300" style="margin-left: 40%;">
+<img src="img/roadmap.png" alt="Roadmap" width="300">
 
 - [ ] Comments on cat photos
 - [ ] User Chat feature
