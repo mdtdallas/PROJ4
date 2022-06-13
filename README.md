@@ -303,7 +303,7 @@ This application is free and open source for everyone.
 
 ## Roadmap
 
-<img src="img/roadmap.png" alt="Roadmap" width="300" style='margin-left: auto;'>
+<img src="img/roadmap.png" alt="Roadmap" width="300" style="margin-left: 40%;">
 
 - [ ] Comments on cat photos
 - [ ] User Chat feature
