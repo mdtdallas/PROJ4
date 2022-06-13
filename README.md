@@ -251,6 +251,7 @@ XAMPP
   ```
 
 3. Create database locally
+- phpmyadmin / workbench
    ```sh
    Open http://localhost/phpmyadmin in browser
    Add new database
@@ -259,7 +260,6 @@ XAMPP
    check for errors
    ```
 
-````
 4. Update db.js
 
  ```sh
@@ -343,7 +343,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@mdtdallas](https://twitter.com/mdtdallas) - admin@dallaslittle.xyz
+Dallas Little - [@mdtdallas](https://twitter.com/mdtdallas) - admin@dallaslittle.xyz
 
 Project Link: [https://github.com/mdtdallas/PROJ4](https://github.com/mdtdallas/PROJ4)
 
